@@ -1,3 +1,6 @@
 .terraform/
 .terraform.lock.hcl
 terraform.*
+/.vs
+/Provision/aws
+/Provision/awscliv2.zip

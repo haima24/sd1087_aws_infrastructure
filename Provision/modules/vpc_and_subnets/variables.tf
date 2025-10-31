@@ -74,5 +74,5 @@ variable "instance_tenancy" {
 variable "ec2_key_name" {
   description = "The name of the key pair to use for the instance"
   type        = string
-  default     = "bndz-key-pair"
+  default     = "sd1087-key-pair"
 }
